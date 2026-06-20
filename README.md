@@ -235,6 +235,7 @@ python generate_dashboard.py
 - 🛠️ Stack: Python (pandas, Plotly), SQL, Excel, RPA (Shadowbot)
 - 🌏 Seeking **remote data roles** (global / English-friendly)
 - 💡 Interests: logistics analytics, customer behavior, data storytelling
+- 🍗 Email:714519615@qq.com
 
 > *This project was built to demonstrate end-to-end analytical thinking — from asking the right questions to delivering actionable business recommendations.*
 
